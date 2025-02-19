@@ -14,7 +14,7 @@ Sou um desenvolvedor apaixonado por **automação de processos, análise de dado
 ### 📌 Projetos Recentes
 🔹 **[Pesquisa de Satisfação](https://github.com/Passetti-cmd/pesquisa-satisfacao)** – Sistema de coleta e análise de feedbacks para restaurantes.
 
-🔹 **[Flask API Inventário](https://github.com/Passetti-cmd/flask-api-inventario)** – API em Flask para gestão de inventário de produtos.
+🔹 **[Flask API Inventário](https://github.com/Passetti-cmd/flask-api-inventario)** – API em Flask para gestão de inventário de produtos em cloud.
 
 🔹 **[Data Setti - Soluções em Análise de Dados](https://github.com/Passetti-cmd/Datasettibr)** – Fornecendo projetos de automação empresarial e crescimento de marca com softwares IA, growth marketing e etc.
 
