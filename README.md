@@ -21,11 +21,6 @@ Sou um desenvolvedor apaixonado por **automação de processos, análise de dado
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## 📌 Projetos Recentes
-🔹 **[Pesquisa de Satisfação](https://github.com/Passetti-cmd/pesquisa-satisfacao)** – Sistema de coleta e análise de feedbacks para restaurantes.  
-🔹 **[Flask API Inventário](https://github.com/Passetti-cmd/flask-api-inventario)** – API em Flask para gestão de inventário de produtos em cloud.  
-🔹 **[Data Setti - Soluções em Análise de Dados](https://github.com/Passetti-cmd/Datasettibr)** – Fornecendo projetos de automação empresarial e crescimento de marca com softwares IA, growth marketing e etc.
-
 ## 📫 Contato
 📧 E-mail: **erickpassetti23@gmail.com**  
 🔗 LinkedIn: [linkedin.com/in/erick-passetti-b35671345](https://www.linkedin.com/in/erick-passetti-b35671345/)  
