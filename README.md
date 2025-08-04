@@ -60,8 +60,13 @@ Dataset visualization and exploration tool for Brazilian data.
 **Tech:** HTML, CSS, JavaScript  
 🔗 [View Repository](https://github.com/Passetti-cmd/Datasettibr)
 
+### **Flask Inventory System**  
+Computer inventory management system with AWS deployment.  
+**Tech:** Flask (Python), SQLite, HTML, CSS, JavaScript  
+🔗 [View Repository](https://github.com/Passetti-cmd/flask-api-inventario)
+
 ### **Passetti CMD**  
-Custom automation scripts and environment setup for developers.  
+Custom automation scripts and developer environment setup.  
 **Tech:** Shell, Config Scripts  
 🔗 [View Repository](https://github.com/Passetti-cmd/Passetti-cmd)
 
