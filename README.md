@@ -65,11 +65,6 @@ Computer inventory management system with AWS deployment.
 **Tech:** Flask (Python), SQLite, HTML, CSS, JavaScript  
 🔗 [View Repository](https://github.com/Passetti-cmd/flask-api-inventario)
 
-### **Passetti CMD**  
-Custom automation scripts and developer environment setup.  
-**Tech:** Shell, Config Scripts  
-🔗 [View Repository](https://github.com/Passetti-cmd/Passetti-cmd)
-
 ---
 
 ## 📜 Certifications & Courses
