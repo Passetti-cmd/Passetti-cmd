@@ -53,17 +53,17 @@ I aim to **build intelligent systems** that empower businesses, streamline workf
 ### **Customer Satisfaction Survey**  
 Web app to collect and analyze customer feedback.  
 **Tech:** HTML, CSS, JavaScript  
-🔗 [View Repository](https://github.com/SEU-USUARIO/pesquisa-satisfacao)
+🔗 [View Repository](https://github.com/Passetti-cmd/pesquisa-satisfacao)
 
 ### **DatasetTIBR**  
 Dataset visualization and exploration tool for Brazilian data.  
 **Tech:** HTML, CSS, JavaScript  
-🔗 [View Repository](https://github.com/SEU-USUARIO/DatasetTIBR)
+🔗 [View Repository](https://github.com/Passetti-cmd/Datasettibr)
 
 ### **Passetti CMD**  
 Custom automation scripts and environment setup for developers.  
 **Tech:** Shell, Config Scripts  
-🔗 [View Repository](https://github.com/SEU-USUARIO/Passetti-cmd)
+🔗 [View Repository](https://github.com/Passetti-cmd/Passetti-cmd)
 
 ---
 
