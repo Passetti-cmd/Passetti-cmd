@@ -50,20 +50,6 @@ I aim to **build intelligent systems** that empower businesses, streamline workf
 
 ## 📂 Featured Projects
 
-### **Customer Satisfaction Survey**  
-Web app to collect and analyze customer feedback.  
-**Tech:** HTML, CSS, JavaScript  
-🔗 [View Repository](https://github.com/Passetti-cmd/pesquisa-satisfacao)
-
-### **DatasetTIBR**  
-Dataset visualization and exploration tool for Brazilian data.  
-**Tech:** HTML, CSS, JavaScript  
-🔗 [View Repository](https://github.com/Passetti-cmd/Datasettibr)
-
-### **Flask Inventory System**  
-Computer inventory management system with AWS deployment.  
-**Tech:** Flask (Python), SQLite, HTML, CSS, JavaScript  
-🔗 [View Repository](https://github.com/Passetti-cmd/flask-api-inventario)
 
 ---
 
