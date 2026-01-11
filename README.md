@@ -68,4 +68,4 @@ I aim to **build intelligent systems** that empower businesses, streamline workf
 
 ---
 
-⭐ *If you find my projects useful or interesting, consider giving them a star!* 🚀
+🌍 International Status: Advanced English (2 years living in the USA)
