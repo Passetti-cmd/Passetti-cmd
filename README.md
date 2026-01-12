@@ -107,6 +107,28 @@ https://github.com/Passetti-cmd/radar-bidding
 
 ---
 
+### 📊 Intelligence Log Extractor — Data Analytics & ETL Pipeline
+
+A professional-grade **data engineering platform** designed to extract, process, and visualize structured information from unstructured text and log files, featuring real-time analytics and multi-locale support.
+
+**Key Highlights**
+- 🔍 **Advanced Extraction:** Regex-based engine for dates, international currencies (BRL, USD, EUR, GBP, CHF), and Unicode name recognition.
+- 🌍 **Multi-locale Intelligence:** Automatic detection of formats for PT, EN, DE, FR, and ES (e.g., handling both `1.500,00 €` and `$ 1,500.00`).
+- 📈 **Real-Time Dashboard:** Interactive visualizations using Streamlit and Plotly for KPIs and data distribution.
+- ⚙️ **Asynchronous Processing:** Background task management for handling large file uploads without blocking the API.
+- 🏗️ **Professional Architecture:** Clean Architecture with separation of concerns, Pydantic type safety, and centralized error handling.
+- 🐳 **Full Orchestration:** Multi-container setup with Docker Compose, including FastAPI, PostgreSQL, and Streamlit.
+
+**Tech Stack**
+- Python, FastAPI, Pydantic, SQLAlchemy
+- Streamlit, Plotly, Pandas
+- PostgreSQL, Docker, Docker Compose
+- Pytest (Unit & Integration testing)
+
+🔗 **Repository:** https://github.com/Passetti-cmd/Data-Analytics-ETL-Pipelines
+
+---
+
 ## 📜 Certifications & Courses
 - **Fullstack Software Developer** – IBM  
 - **Artificial Intelligence with Python – CS50** – HarvardX  
