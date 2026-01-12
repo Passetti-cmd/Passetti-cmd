@@ -51,7 +51,7 @@ I aim to **build intelligent systems** that empower businesses, streamline workf
 ## 📂 Featured Projects
 
 🌐 **Portfolio Website**  
-passetti-cmd.github.io/erick-portfolio
+https://passetti-cmd.github.io/erick-portfolio
 
 ---
 
