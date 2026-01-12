@@ -117,8 +117,7 @@ https://github.com/Passetti-cmd/radar-bidding
 
 ## 📫 Contact
 📧 **erickpassetti23@gmail.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/erick-passetti-b35671345/)  
-🌎 [Datasetti.com](https://datasetti.com)
+🔗 [LinkedIn](www.linkedin.com/in/erick-passetti)  
 
 ---
 
