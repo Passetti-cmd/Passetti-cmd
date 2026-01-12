@@ -51,7 +51,7 @@ I aim to **build intelligent systems** that empower businesses, streamline workf
 ## 📂 Featured Projects
 
 🌐 **Portfolio Website**  
-https://passetti-cmd.github.io/erick-portfolio/?/project/secure-task-management-api
+passetti-cmd.github.io/erick-portfolio
 
 ---
 
