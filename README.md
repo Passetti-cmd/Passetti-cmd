@@ -50,6 +50,11 @@ I aim to **build intelligent systems** that empower businesses, streamline workf
 
 ## 📂 Featured Projects
 
+🌐 **Portfolio Website**  
+https://passetti-cmd.github.io/erick-portfolio/?/project/secure-task-management-api
+
+---
+
 ### 🛡️ Secure Task Management API
 
 Production-ready REST API focused on **security, data isolation, and scalability**. Designed to demonstrate real-world backend engineering best practices, including strict multi-tenant access control and stateless authentication.
