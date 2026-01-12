@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Erick Passetti
 
 **Junior Software Engineer** passionate about **automation, cloud technologies, AI, and data-driven solutions**.  
-Currently working at **Saúde Bliss**, developing **scalable backend systems** using **Python, FastAPI, TypeScript, React, and AWS**, with a strong focus on **clean code, performance, and automation**.  
+Currently working at **Saúde Bliss**, developing **scalable backend systems** using **Python, FastAPI, TypeScript, React, and AWS**, with a strong focus on **clean code, performance, and automation**.
 
 I aim to **build intelligent systems** that empower businesses, streamline workflows, and deliver measurable results.
 
@@ -9,134 +9,99 @@ I aim to **build intelligent systems** that empower businesses, streamline workf
 
 ## 🚀 About Me
 
-- 💻 **Full-stack development experience** with strong backend expertise.  
-- ☁️ Proficient in **Cloud Computing** (AWS, Docker, CI/CD) and automation.  
-- 📊 Skilled in **Data Analysis, Business Intelligence, and Power BI dashboards**.  
-- 🧠 Knowledge in **Artificial Intelligence & Machine Learning** (Python, Scikit-learn, Pandas).  
-- 🔍 Detail-oriented problem solver with strong debugging and optimization skills.  
-- 🌍 Comfortable working in **remote, multicultural, and distributed teams**.  
-- 📈 Experienced in developing **SaaS platforms, APIs, and data-driven applications**.
+- 💻 Full-stack development experience with strong backend expertise  
+- ☁️ Cloud Computing (AWS, Docker, CI/CD) and automation  
+- 📊 Data Analysis, Business Intelligence, and Power BI dashboards  
+- 🧠 Artificial Intelligence & Machine Learning (Python, Pandas, Scikit-learn)  
+- 🔍 Detail-oriented problem solver with strong debugging skills  
+- 🌍 Comfortable working in remote, multicultural, and distributed teams  
+- 📈 Experience building SaaS platforms, APIs, and data-driven applications  
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-**Languages & Frameworks**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+### Languages & Frameworks
+- Python, FastAPI, Flask  
+- Node.js, TypeScript, JavaScript  
+- React  
 
-**Databases**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white)
+### Databases
+- MongoDB  
+- MySQL / SQL  
 
-**Cloud & DevOps**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### Cloud & DevOps
+- AWS  
+- Docker & Docker Compose  
+- Git & GitHub  
 
-**Data & Analytics**  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+### Data & AI
+- Power BI  
+- Pandas, NumPy  
+- Scikit-learn  
 
 ---
 
 ## 📂 Featured Projects
 
-📂 Featured Projects
-🛡️ Secure Task Management API
+### 🛡️ Secure Task Management API
+A **production-ready REST API** focused on **security, data isolation, and scalability**, demonstrating real-world backend engineering best practices.
 
-Production-ready REST API focused on security, data isolation, and scalability. Designed to demonstrate real-world backend engineering best practices, including strict multi-tenant access control and stateless authentication.
+**Highlights**
+- JWT-based stateless authentication  
+- Strict per-user data isolation at database query level  
+- Input validation with Zod and TypeScript inference  
+- Centralized error handling and rate limiting  
+- Dockerized with multi-stage builds  
+- MongoDB indexing for performance  
 
-Key Highlights
+**Tech Stack**
+- Node.js, Express, TypeScript  
+- MongoDB, Mongoose  
+- JWT, bcrypt, Zod  
+- Docker  
 
-🔐 JWT-based stateless authentication
-
-🧱 Strict per-user data isolation at database query level
-
-✅ Input validation with Zod and TypeScript inference
-
-🚦 Rate limiting and centralized error handling
-
-🐳 Dockerized with multi-stage builds
-
-📊 MongoDB with indexing for performance
-
-Tech Stack
-
-Node.js, Express, TypeScript
-
-MongoDB, Mongoose
-
-JWT, bcrypt, Zod
-
-Docker, Docker Compose
-
-🔗 Repository:
+🔗 Repository:  
 https://github.com/Passetti-cmd/Management-API
 
-📡 Radar Bidding — Intelligent Tender Discovery Platform
+---
 
-A full-stack SaaS platform that helps companies discover, analyze, and manage public tenders (licitações) in Brazil using automation, AI-driven scoring, and web scraping.
+### 📡 Radar Bidding — Intelligent Tender Discovery Platform
+A **full-stack SaaS platform** that helps companies **discover and manage public tenders (licitações)** using **automation, AI-driven scoring, and web scraping**.
 
-Key Highlights
+**Highlights**
+- AI-powered tender matching with custom keyword intelligence  
+- Machine learning–based adherence scoring (0–100)  
+- Automated multi-portal web scraping (PNCP, ComprasNet)  
+- Full internationalization (PT / EN / DE)  
+- Secure JWT authentication  
+- PDF document processing and data extraction  
+- Export to Excel/CSV and AI-powered proposal generation  
 
-🔍 AI-powered tender matching using custom keyword intelligence
+**Architecture**
+- Backend: FastAPI, Python, SQLAlchemy, MySQL, Playwright  
+- Frontend: React 18, TypeScript, Tailwind CSS  
 
-📊 Machine learning–based adherence scoring (0–100)
-
-🤖 Automated multi-portal web scraping (PNCP, ComprasNet)
-
-🌐 Full internationalization (PT / EN / DE)
-
-🔐 Secure authentication with JWT
-
-📄 PDF processing and document extraction
-
-📤 Export to Excel/CSV and proposal generation (AI-powered)
-
-Architecture
-
-Backend: FastAPI, Python, SQLAlchemy, MySQL, Playwright
-
-Frontend: React 18, TypeScript, Tailwind CSS
-
-Other: Async processing, modular services, clean architecture
-
-Tech Stack
-
-Python, FastAPI, SQLAlchemy
-
-React, TypeScript, Tailwind CSS
-
-MySQL, JWT, Playwright
-
-AI/ML-based scoring logic
-
-🔗 Repository:
+🔗 Repository:  
 https://github.com/Passetti-cmd/radar-bidding
+
 ---
 
 ## 📜 Certifications & Courses
-- **Fullstack Software Developer** – IBM  
-- **Artificial Intelligence with Python – CS50** – HarvardX  
-- **Data Science Training** – Udemy  
-- **Machine Learning Basics** – Self-taught projects
+
+- Fullstack Software Developer – IBM  
+- Artificial Intelligence with Python (CS50) – HarvardX  
+- Data Science Training – Udemy  
+- Machine Learning Basics – Self-taught projects  
 
 ---
 
 ## 📫 Contact
-📧 **erickpassetti23@gmail.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/erick-passetti-b35671345/)  
-🌎 [Datasetti.com](https://datasetti.com)
+
+- 📧 Email: **erickpassetti23@gmail.com**  
+- 💼 LinkedIn: https://www.linkedin.com/in/erick-passetti-b35671345/  
+- 🌎 Website: https://datasetti.com  
 
 ---
 
-🌍 International Status: Advanced English (2 years living in the USA)
+🌍 **International Status:** Advanced English (2 years living in the USA)
