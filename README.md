@@ -50,7 +50,78 @@ I aim to **build intelligent systems** that empower businesses, streamline workf
 
 ## 📂 Featured Projects
 
+📂 Featured Projects
+🛡️ Secure Task Management API
 
+Production-ready REST API focused on security, data isolation, and scalability. Designed to demonstrate real-world backend engineering best practices, including strict multi-tenant access control and stateless authentication.
+
+Key Highlights
+
+🔐 JWT-based stateless authentication
+
+🧱 Strict per-user data isolation at database query level
+
+✅ Input validation with Zod and TypeScript inference
+
+🚦 Rate limiting and centralized error handling
+
+🐳 Dockerized with multi-stage builds
+
+📊 MongoDB with indexing for performance
+
+Tech Stack
+
+Node.js, Express, TypeScript
+
+MongoDB, Mongoose
+
+JWT, bcrypt, Zod
+
+Docker, Docker Compose
+
+🔗 Repository:
+https://github.com/Passetti-cmd/Management-API
+
+📡 Radar Bidding — Intelligent Tender Discovery Platform
+
+A full-stack SaaS platform that helps companies discover, analyze, and manage public tenders (licitações) in Brazil using automation, AI-driven scoring, and web scraping.
+
+Key Highlights
+
+🔍 AI-powered tender matching using custom keyword intelligence
+
+📊 Machine learning–based adherence scoring (0–100)
+
+🤖 Automated multi-portal web scraping (PNCP, ComprasNet)
+
+🌐 Full internationalization (PT / EN / DE)
+
+🔐 Secure authentication with JWT
+
+📄 PDF processing and document extraction
+
+📤 Export to Excel/CSV and proposal generation (AI-powered)
+
+Architecture
+
+Backend: FastAPI, Python, SQLAlchemy, MySQL, Playwright
+
+Frontend: React 18, TypeScript, Tailwind CSS
+
+Other: Async processing, modular services, clean architecture
+
+Tech Stack
+
+Python, FastAPI, SQLAlchemy
+
+React, TypeScript, Tailwind CSS
+
+MySQL, JWT, Playwright
+
+AI/ML-based scoring logic
+
+🔗 Repository:
+https://github.com/Passetti-cmd/radar-bidding
 ---
 
 ## 📜 Certifications & Courses
